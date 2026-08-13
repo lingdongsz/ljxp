@@ -1,0 +1,20 @@
+{
+  "name": "ljxp-marketplace",
+  "interface": {
+    "displayName": "LJXP Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "ljxp",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ljxp"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
