@@ -1,18 +1,18 @@
 {
   "name": "ljxp",
   "version": "0.1.0",
-  "description": "蓝鲸选品 Mercado Libre research plugin",
+  "description": "蓝鲸选品助手 Mercado Libre research plugin",
   "author": {
-    "name": "蓝鲸选品"
+    "name": "蓝鲸选品助手"
   },
   "skills": "./skills/",
   "interface": {
-    "displayName": "蓝鲸选品",
+    "displayName": "蓝鲸选品助手",
     "shortDescription": "Analyze Mercado Libre products, categories, keywords, prices, competitors, stores, brands, catalog links, shipping, and exchange rates.",
-    "longDescription": "蓝鲸选品 adds a Codex skill for Mercado Libre product research using local scripts and the 蓝鲸选品 API.",
-    "developerName": "蓝鲸选品",
+    "longDescription": "蓝鲸选品助手 adds a Codex skill for Mercado Libre product research using local scripts and the 蓝鲸选品 API.",
+    "developerName": "蓝鲸选品助手",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "使用 $ljxp，帮我分析 Mercado Libre 选品机会。"
+    "defaultPrompt": "使用蓝鲸选品助手，帮我分析 Mercado Libre(美客多平台) 选品机会。"
   }
 }
